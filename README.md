@@ -9,7 +9,7 @@ s3-static-website/
 ├── index.html # Main landing page
 ├── styles.css # Styling for the website
 ├── script.js # (Optional) JavaScript functionality
-└── README.md # Project documentation
+└── README.md # Project documentation.
 
 ---
 
