@@ -1,4 +1,4 @@
-# S3 Static Website 🚀
+# S3 Static Website 
 
 A simple static website hosted on **Amazon S3**, showcasing how to set up, deploy, and manage a serverless web app.
 
