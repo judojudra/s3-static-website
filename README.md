@@ -4,7 +4,7 @@ A simple static website hosted on **Amazon S3**, showcasing how to set up, deplo
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 s3-static-website/
 ├── index.html # Main landing page
 ├── styles.css # Styling for the website
@@ -13,7 +13,7 @@ s3-static-website/
 
 ---
 
-## 🌐 Deployment on AWS S3
+##  Deployment on AWS S3
 1. Create an S3 bucket (name must be globally unique).
 2. Enable **Static Website Hosting** in the bucket properties.
 3. Upload your files (`index.html`, `styles.css`, etc.).
@@ -22,7 +22,7 @@ s3-static-website/
 
 ---
 
-## 🛠️ Features
+##  Features
 - Lightweight static HTML/CSS/JS
 - Zero servers required — fully serverless
 - Scalable & highly available using AWS infrastructure
@@ -30,16 +30,13 @@ s3-static-website/
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 - Add CI/CD with GitHub Actions
 - Custom domain with Route 53 + HTTPS (ACM)
 - Analytics integration (Google Analytics or Plausible)
 
 ---
 
-## 📸 Preview
-![Website Screenshot](screenshot.png)  
-*(Add a screenshot of your site here once deployed)*
 
 ---
 
